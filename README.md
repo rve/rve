@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-👋 I'm rve 
+👋 I'm rve, a cool shortcut form ealry days of Github
 
-😇 Learning **LLM** now... 
+😇 Learning **vision & LLM** now... 
 
 [![](https://img.shields.io/badge/-C++-008e74?style=flat-square&logo=C%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
