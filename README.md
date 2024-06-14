@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Vim-019733?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rve&theme=dracula&include_all_commits=true&hide=contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rve&theme=dracula&include_all_commits=true&hide=contribs&show_icons=true)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=rve&layout=compact&show_icons=true&theme=dracula) 
 
 <!--
