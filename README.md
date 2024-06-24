@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 I'm **rve**, a cool shortcut form ealry days of Github
+👋 I'm **rve**
 
 😇 Learning **LLM** now... 
 
